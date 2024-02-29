@@ -148,7 +148,7 @@
                             <i class="fa fa-2x fa-user-md text-white"></i>
                         </div>
                         <h4 class="mb-3">Emergency Care</h4>
-                        <p class="m-0">Kasd dolor no lorem nonumy sit labore tempor at justo rebum rebum stet, justo elitr dolor amet sit</p>
+                        <p class="m-0"></p>
                         <a class="btn btn-lg btn-primary rounded-pill" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
@@ -160,7 +160,7 @@
                             <i class="fa fa-2x fa-procedures text-white"></i>
                         </div>
                         <h4 class="mb-3">Operation & Surgery</h4>
-                        <p class="m-0">Kasd dolor no lorem nonumy sit labore tempor at justo rebum rebum stet, justo elitr dolor amet sit</p>
+                        <p class="m-0"></p>
                         <a class="btn btn-lg btn-primary rounded-pill" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
@@ -172,7 +172,7 @@
                             <i class="fa fa-2x fa-stethoscope text-white"></i>
                         </div>
                         <h4 class="mb-3">Outdoor Checkup</h4>
-                        <p class="m-0">Kasd dolor no lorem nonumy sit labore tempor at justo rebum rebum stet, justo elitr dolor amet sit</p>
+                        <p class="m-0"></p>
                         <a class="btn btn-lg btn-primary rounded-pill" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
@@ -184,7 +184,7 @@
                             <i class="fa fa-2x fa-ambulance text-white"></i>
                         </div>
                         <h4 class="mb-3">Ambulance Service</h4>
-                        <p class="m-0">Kasd dolor no lorem nonumy sit labore tempor at justo rebum rebum stet, justo elitr dolor amet sit</p>
+                        <p class="m-0"></p>
                         <a class="btn btn-lg btn-primary rounded-pill" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
@@ -196,7 +196,7 @@
                             <i class="fa fa-2x fa-pills text-white"></i>
                         </div>
                         <h4 class="mb-3">Medicine & Pharmacy</h4>
-                        <p class="m-0">Kasd dolor no lorem nonumy sit labore tempor at justo rebum rebum stet, justo elitr dolor amet sit</p>
+                        <p class="m-0"></p>
                         <a class="btn btn-lg btn-primary rounded-pill" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
@@ -208,7 +208,7 @@
                             <i class="fa fa-2x fa-microscope text-white"></i>
                         </div>
                         <h4 class="mb-3">Blood Testing</h4>
-                        <p class="m-0">Kasd dolor no lorem nonumy sit labore tempor at justo rebum rebum stet, justo elitr dolor amet sit</p>
+                        <p class="m-0"></p>
                         <a class="btn btn-lg btn-primary rounded-pill" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
@@ -225,7 +225,7 @@
                         <h5 class="d-inline-block text-white text-uppercase border-bottom border-5">Appointment</h5>
                         <h1 class="display-4">Make An Appointment For Your Family</h1>
                     </div>
-                    <p class="text-white mb-5">Eirmod sed tempor lorem ut dolores. Aliquyam sit sadipscing kasd ipsum. Dolor ea et dolore et at sea ea at dolor, justo ipsum duo rebum sea invidunt voluptua. Eos vero eos vero ea et dolore eirmod et. Dolores diam duo invidunt lorem. Elitr ut dolores magna sit. Sea dolore sanctus sed et. Takimata takimata sanctus sed.</p>
+                    <p class="text-white mb-5">Keeping your family healthy is at the forefront of our minds. Now, scheduling appointments for everyone is easier than ever!  Simply browse our online portal to find the right provider and appointment type for each family member. Choose a convenient date and time slot that works for everyone, and then confirm your appointments with a quick and secure online form. It's a simple way to save you time and ensure everyone receives the care they need.</p>
                     <a class="btn btn-dark rounded-pill py-3 px-5 me-3" href="">Find Doctor</a>
                     <a class="btn btn-outline-dark rounded-pill py-3 px-5" href="">Read More</a>
                 </div>
@@ -293,7 +293,7 @@
                         <div class="position-absolute w-100 h-100 top-50 start-50 translate-middle rounded-top d-flex flex-column align-items-center justify-content-center" style="background: rgba(29, 42, 77, .8);">
                             <h3 class="text-white">Pregnancy Care</h3>
                             <h1 class="display-4 text-white mb-0">
-                                <small class="align-top fw-normal" style="font-size: 22px; line-height: 45px;">$</small>49<small class="align-bottom fw-normal" style="font-size: 16px; line-height: 40px;">/ Year</small>
+                                <small class="align-top fw-normal" style="font-size: 22px; line-height: 45px;">₹</small>4999<small class="align-bottom fw-normal" style="font-size: 16px; line-height: 40px;">/ Year</small>
                             </h1>
                         </div>
                     </div>
@@ -311,7 +311,7 @@
                         <div class="position-absolute w-100 h-100 top-50 start-50 translate-middle rounded-top d-flex flex-column align-items-center justify-content-center" style="background: rgba(29, 42, 77, .8);">
                             <h3 class="text-white">Health Checkup</h3>
                             <h1 class="display-4 text-white mb-0">
-                                <small class="align-top fw-normal" style="font-size: 22px; line-height: 45px;">$</small>99<small class="align-bottom fw-normal" style="font-size: 16px; line-height: 40px;">/ Year</small>
+                                <small class="align-top fw-normal" style="font-size: 22px; line-height: 45px;">₹</small>7999<small class="align-bottom fw-normal" style="font-size: 16px; line-height: 40px;">/ Checkup</small>
                             </h1>
                         </div>
                     </div>
@@ -329,7 +329,7 @@
                         <div class="position-absolute w-100 h-100 top-50 start-50 translate-middle rounded-top d-flex flex-column align-items-center justify-content-center" style="background: rgba(29, 42, 77, .8);">
                             <h3 class="text-white">Dental Care</h3>
                             <h1 class="display-4 text-white mb-0">
-                                <small class="align-top fw-normal" style="font-size: 22px; line-height: 45px;">$</small>149<small class="align-bottom fw-normal" style="font-size: 16px; line-height: 40px;">/ Year</small>
+                                <small class="align-top fw-normal" style="font-size: 22px; line-height: 45px;">₹</small>10999<small class="align-bottom fw-normal" style="font-size: 16px; line-height: 40px;">/ Checkup</small>
                             </h1>
                         </div>
                     </div>
@@ -347,7 +347,7 @@
                         <div class="position-absolute w-100 h-100 top-50 start-50 translate-middle rounded-top d-flex flex-column align-items-center justify-content-center" style="background: rgba(29, 42, 77, .8);">
                             <h3 class="text-white">Operation & Surgery</h3>
                             <h1 class="display-4 text-white mb-0">
-                                <small class="align-top fw-normal" style="font-size: 22px; line-height: 45px;">$</small>199<small class="align-bottom fw-normal" style="font-size: 16px; line-height: 40px;">/ Year</small>
+                                <small class="align-top fw-normal" style="font-size: 22px; line-height: 45px;">₹</small>17999<small class="align-bottom fw-normal" style="font-size: 16px; line-height: 40px;">/ Checkup</small>
                             </h1>
                         </div>
                     </div>
